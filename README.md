@@ -1,8 +1,6 @@
 
 # Vue Material Admin
 
-[![CircleCI](https://circleci.com/gh/tookit/vue-material-admin/tree/dev.svg?style=svg)](https://circleci.com/gh/tookit/vue-material-admin/tree/dev)
-
 ## Plan and features
 * will create a new template by vue-cli 3.x 
 * will remove some useless code because of the vuetify framework updates  
@@ -16,8 +14,7 @@ And use [Vuetifyjs](https://vuetifyjs.com/) as base framework.
 Vuetify is Awesome.
 
 ## Demo
-[http://vma.isocked.com/#/dashboard] (Old) 
-[http://dev-vma.isocked.com/#/dashboard] (dev) 
+[http://vma.isocked.com/#/dashboard] (
 ## Preview
 ![Preivew](http://vma.isocked.com//static/preview/01_preview.png)
 
@@ -85,16 +82,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 * [ECharts](http://echarts.baidu.com/option.html)
 * [SASS](http://sass-lang.com/)
 
-### Donate
-If you find this project useful, you can buy author a glass of juice :tropical_drink:
 
-
-[Paypal Me](https://www.paypal.me/tookit)
-
-[Buy me a coffee](https://www.buymeacoffee.com/tookit)
-
-<a href="https://www.buymeacoffee.com/tookit" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-## License
-
-[MIT](https://github.com/tookit/vue-material-admin/blob/master/LICENSE)
